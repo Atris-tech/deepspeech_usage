@@ -1,0 +1,5 @@
+fastapi
+deepspeech-gpu
+python-multipart
+uvicorn
+scipy

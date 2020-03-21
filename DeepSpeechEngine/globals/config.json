@@ -1,0 +1,9 @@
+{
+    "deepspeech": {
+      "model" :"models/output_graph.pb",
+      "lm": "models/lm.binary",
+      "trie": "models/trie",
+      "audio_folder" : "audios",
+      "frequency" : "16000"
+    }
+  }
